@@ -1,0 +1,1 @@
+file = open ("E:\Bilisim_kurslar\elzero_Mastering_Python\huzeyfe.txt")
